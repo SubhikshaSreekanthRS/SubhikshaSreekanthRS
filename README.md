@@ -9,9 +9,7 @@
   📔 I am doing my Bachelors in Information Technology at Dr.Mahalingam College
   of Engineering and Technology.
 </p>
-<br />
 <p>🎯An adept and a philomath.</p>
-<br />
 <p>👩‍💻I am currently learning Front End Development.</p>
 
 <b><h4>Known Languages</h4></b>
