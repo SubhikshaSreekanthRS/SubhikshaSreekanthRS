@@ -22,14 +22,14 @@
 
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new"
   target="_blank">
-  <img src="https://i7.pngguru.com/preview/50/642/525/gmail-email-computer-icons-google-logo-gmail.jpg"
+  <img src="./gmail.jpeg"
        alt="not responding"
     height="40"
     weight="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/subhiksha-r-s-a482a5234/" target="_blank">
-  <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG16.png"
+  <img src="./linkedln.jpeg"
        alt="not responding"
     height="40"
     width="40"/>
